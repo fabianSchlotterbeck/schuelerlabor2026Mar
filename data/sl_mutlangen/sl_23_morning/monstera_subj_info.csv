@@ -1,0 +1,17 @@
+id,missed_break_one,missed_break_two,missed_break_three,time_in_minutes,language,asses,age,gender,comments,fluent
+63fdcb5104a7c,False,False,False,32.29475,Deutsch,Yes,16,Female,,Yes
+63fdcb54a589e,False,False,False,29.161133333333332,Deutsch,Yes,17,Female,,Yes
+63fdcb5ac2d36,False,False,False,56.228233333333336,Deutsch,Yes,16,Female,,Yes
+63fdcb88d55c0,False,False,False,31.0307,"Polnisch, Deutsch",Yes,17,Female,,Yes
+63fdcb92384b9,False,False,False,9.799216666666666,Französisch/Deutsch,Confused,17,Female,,Yes
+63fdcba2110de,False,False,False,49.16538333333333,Deutsch,Yes,16,Female,,Yes
+63fdcbaee5832,False,False,False,37.7705,deutsch,Yes,18,Female,"
+",Yes
+63fdcbb49c233,False,False,False,32.86663333333333,Deutsch,Yes,16,Female,,Yes
+63fdcbc1a46db,False,False,False,35.44663333333333,Deutsch,Yes,16,Female,,Yes
+63fdcbdd8f98d,False,False,False,44.73773333333333,(nord)mazedonisch und deutsch,Yes,16,Female,"Ich war mir oft unsicher welches passt, da sich ja auch ein Wendepunkt in der Geschichte bilden kann und demnach auch eine ""nicht-passende"" Antwort richtig sein könnte. ",Yes
+63fdcbdf1eaba,False,False,False,54.96673333333333,deutsch,Yes,16,Female,,No
+63fdcbe61c450,False,False,False,12.22995,deutsch,Yes,16,Female,,Yes
+63fdcc1ad0744,False,False,False,57.058366666666664,deutsch,Yes,17,Female,,Yes
+63fdcc38a541f,False,False,False,31.987933333333334,Deutsch,Yes,17,Female,,No
+63fdcc930a1a6,False,False,False,56.7295,türkisch,Yes,,Female,,Yes

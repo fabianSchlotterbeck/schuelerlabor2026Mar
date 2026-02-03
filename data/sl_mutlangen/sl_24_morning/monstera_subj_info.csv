@@ -1,0 +1,12 @@
+id,missed_break_one,missed_break_two,missed_break_three,time_in_minutes,language,asses,age,gender,comments,fluent
+66165335968f9,False,False,False,60.27206666666667,deutsch,Yes,18,Female,,No
+66165299f17b1,False,False,False,63.75138333333334,russisch,Yes,16,Female,,Yes
+6616524ab6b80,False,False,False,66.0198,Deutsch ,Yes,16,Female,,No
+661650eb12fe4,False,False,False,29.687866666666668,"Serbisch, Englisch",Yes,18,Female,,Yes
+6616520864c72,False,False,False,56.62558333333333,Deutsch,Yes,19,Male,,No
+661653d60b6b1,False,False,False,65.78318333333333,deutsch,Confused,17,Male,,No
+661653fb374db,False,False,False,65.62795,deutsch,Yes,17,Male,,Yes
+661652fb22368,False,False,False,58.70081666666667,deutsch,Yes,18,Female,,No
+66165384a1392,False,False,False,62.14123333333333,Deutsch,Yes,17,Male,,Yes
+6616532268a2c,False,False,False,65.2815,Deutsch,Yes,17,Female,,No
+661651e40ead2,False,False,False,29.984016666666665,Deutsch,Yes,15,Female,,Yes
