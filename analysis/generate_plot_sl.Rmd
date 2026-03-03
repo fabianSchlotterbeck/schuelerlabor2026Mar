@@ -39,8 +39,11 @@ data23m <- read.csv(file = file.path("..", "data", "sl_23_morning","monstera.csv
 data23a <- read.csv(file = file.path("..", "data", "sl_23_afternoon","monstera.csv")) 
 data24m <- read.csv(file = file.path("..", "data", "sl_24_morning","monstera.csv")) 
 data24a <- read.csv(file = file.path("..", "data", "sl_24_afternoon","monstera.csv")) 
+data26_m <- read.csv(file = file.path("..", "data", "sl_26_morning","monstera.csv")) 
+data26_a <- read.csv(file = file.path("..", "data", "sl_26_morning","monstera.csv")) 
 
 data <- rbind(data23m, data23a, data24m, data24a)
+data <- rbind(data, data26_m, data26_a)
 ```
 
 
